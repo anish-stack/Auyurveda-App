@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Om Sri Sale Solutions",
+    "slug": "Om Sri Sale Solutions",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./images/logo.webp",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./images/logo.webp",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./images/logo.webp",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.prabhats1410.mobileapp"
+    },
+    "web": {
+      "favicon": "./images/logo.webp.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f969e166-add5-4b43-be64-3d1ea4ea1c6f"
+      }
+    }
+  }
+}
